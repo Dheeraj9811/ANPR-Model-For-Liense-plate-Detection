@@ -5,6 +5,7 @@ The use of vehicles is increasing in today’s era, making traffic control chall
 ## How to Run
 
 In our solution, we are using WiFi and Raspberry Pi to send photos back to the model from anywhere in the campus. The main motive behind this is to set up the model on the server, and we just need to install a camera connected to WiFi to run ANPR on each camera connected to the Raspberry Pi.
+<img src="/img/architecture.jpg" alt="architecture" width="500" height="300">
 
 1. **Install Requirements:**
    - Navigate to the `Code` folder.
@@ -28,5 +29,12 @@ In our solution, we are using WiFi and Raspberry Pi to send photos back to the m
 ## Additional Notes
   -  Read PPT and paper for more information
 
+## Testing
+ <!-- adding testing img -->
+   <img src="/img/testing.jpg" alt="testing" width="500" height="300">
+
+## Results
+   <!-- adding results img -->
+   <img src="/img/results.jpg" alt="results" width="500" height="300">
 
 
